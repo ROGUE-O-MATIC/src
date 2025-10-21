@@ -1,0 +1,19 @@
+# Compiled object files
+*.o
+
+# Executables
+des_example
+javakill
+
+# Build artifacts
+*.out
+*.exe
+
+# Editor backup files
+*~
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
