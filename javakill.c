@@ -561,3 +561,4 @@ char	*s, *find;
 // final-check
 // silent-check
 // silent-ok
+// silent-ok-2
