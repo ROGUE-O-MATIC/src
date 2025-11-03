@@ -556,3 +556,4 @@ char	*s, *find;
 	}
         return(s);
 }
+// ping
