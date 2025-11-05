@@ -1,0 +1,6 @@
+{
+  "snapshot": "snapshot-20251105-cee3102c-da00-49dd-92c8-185e1f3d5242",
+  "install": "sudo apt update && sudo apt install -y build-essential git curl\n",
+  "start": "echo \"Environment ready - $(date)\"\n",
+  "terminals": []
+}
