@@ -503,7 +503,7 @@ int	*len;
 
 	/* needs optimization!!! */
 	while ((p = strcasestr(buf, first)) != NULL &&
-	       (q = strcasestr(buf, last)) != NULL) {
+	       (q = strcasestr(p, last)) != NULL) {
 
 		/* delete javascript code */
 		q += strlen(last);
